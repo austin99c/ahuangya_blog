@@ -130,11 +130,11 @@ const config: Config = {
         <p>Copyright © 2020 - ${new Date().getFullYear()} Loner. | Built with Docusaurus.</p>
         `,
     },
-    // algolia: {
-    //   appId: 'GV6YN1ODMO',
-    //   apiKey: '50303937b0e4630bec4a20a14e3b7872',
-    //   indexName: 'kuizuo',
-    // },
+    algolia: {
+      appId: '45RYO13DPX',
+      apiKey: '67c85ace7933fc70b7c487837a17a266',
+      indexName: 'ahuangya-blog',
+    },
     prism: {
       theme: themes.oneLight,
       darkTheme: themes.oneDark,
