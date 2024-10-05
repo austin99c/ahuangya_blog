@@ -1,11 +1,9 @@
 <h2 align="center">
 阿黄的个人博客
 </h2>
-<p align="center">
+<!-- <p align="center">
 <a href="https://vercel.com/new/clone?repository-url=https://github.com/kuizuo/blog/tree/main&project-name=blog&repo-name=blog" rel="nofollow"><img src="https://vercel.com/button"></a>
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/kuizuo/blog" rel="nofollow"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
-<a href="https://stackblitz.com/github/kuizuo/blog" rel="nofollow"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"></a>
-</p>
+</p> -->
 
 ## 👋 介绍
 
@@ -28,8 +26,6 @@
 - 🗃️ **博文视图** - 不同的博文视图，列表、宫格
 - 🌈 **资源导航** - 收集并分享有用、有意思的资源
 - 📦 **项目展示** - 展示你的项目，可用作于作品集
-
-我的主题魔改实现：[Docusaurus 主题魔改](https://kuizuo.cn/docs/docusaurus-guides)
 
 ## :wrench: 技术栈
 
@@ -81,10 +77,6 @@ pnpm start
 ```bash
 pnpm build
 ```
-
-## 📷 截图
-
-<img width="1471" alt="Live Demo" src="https://github.com/kuizuo/blog/blob/main/static/img/og.png?raw=true">
 
 ## 📝 许可证
 
