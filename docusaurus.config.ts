@@ -131,9 +131,9 @@ const config: Config = {
         `,
     },
     algolia: {
-      appId: '45RYO13DPX',
-      apiKey: '67c85ace7933fc70b7c487837a17a266',
-      indexName: 'ahuangya-blog',
+      appId: 'TZNEZSLU8C',
+      apiKey: '2352783dc96f1351aedf1f458c98222d',
+      indexName: 'ahuangya',
     },
     prism: {
       theme: themes.oneLight,
