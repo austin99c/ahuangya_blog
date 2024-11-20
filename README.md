@@ -66,7 +66,7 @@
 ## 📥 运行
 
 ```bash
-git clone https://github.com/kuizuo/blog.git
+git clone https://github.com/austin99c/ahuangya_blog.git
 cd blog
 pnpm install
 pnpm start

@@ -153,10 +153,10 @@ const config: Config = {
       ],
     },
     giscus: {
-      repo: 'kuizuo/blog',
-      repoId: 'MDEwOlJlcG9zaXRvcnkzOTc2MjU2MTI=',
+      repo: 'austin99c/ahuangya_blog',
+      repoId: 'R_kgDOM7xTaA',
       category: 'General',
-      categoryId: 'DIC_kwDOF7NJDM4CPK95',
+      categoryId: 'DIC_kwDOM7xTaM4CkcLC',
       theme: 'light',
       darkTheme: 'dark_dimmed',
     } satisfies Partial<GiscusConfig>,
@@ -199,7 +199,7 @@ const config: Config = {
   plugins: [
     'docusaurus-plugin-image-zoom',
     '@docusaurus/plugin-ideal-image',
-    // ['docusaurus-plugin-baidu-tongji', { token: 'c9a3849aa75f9c4a4e65f846cd1a5155' }],
+    ['docusaurus-plugin-baidu-tongji', { token: 'c303daa82628210f123724459ee3fad2' }],
     [
       '@docusaurus/plugin-pwa',
       {
@@ -224,7 +224,7 @@ const config: Config = {
       {
         path: 'blog',
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-          `https://github.com/kuizuo/blog/edit/main/${blogDirPath}/${blogPath}`,
+          `https://github.com/austin99c/ahuangya_blog/edit/main/${blogDirPath}/${blogPath}`,
         editLocalizedFiles: false,
         blogDescription: '✨人类所有真实的快乐，一定是恒久的努力✨',
         blogSidebarCount: 10,
@@ -262,7 +262,7 @@ const config: Config = {
                 innerHTML: `
     (${function () {
       console.log(
-        `%c Loner Blog %c https://github.com/kuizuo/blog`,
+        `%c Loner Blog %c https://github.com/austin99c/ahuangya_blog`,
         'color: #fff; margin: 1em 0; padding: 5px 0; background: #12affa;',
         'margin: 1em 0; padding: 5px 0; background: #efefef;',
       )
