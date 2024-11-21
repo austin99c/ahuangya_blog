@@ -2,7 +2,7 @@
 id: git-conmit-specification
 slug: git-conmit-specification
 title: git commit 规范
-date: 2021-08-31
+date: 2024-11-21
 authors: loner
 tags: [git, commit]
 keywords: [git, commit]
@@ -10,15 +10,7 @@ keywords: [git, commit]
 
 <!-- truncate -->
 
-提交规范主要是为了让开发者提交完整的更新信息，方便查阅。
-
-目前最为流行的提交信息规范来自于 Angular 团队。
-
-规范中，主要就是要求提交内容要进行分类并填写内容，更为严格的规定是要求标注开发模块，整个语法如下
-
-```bash
-type(scope?): subject  #scope is optional; multiple scopes are supported (current delimiter options: "/", "\" and ",")
-```
+提交规范主要是为了让开发者提交完整的更新信息，方便查阅。目前最为流行的提交信息规范来自于 Angular 团队。
 
 | type     | commit 的类型                                            |
 | -------- | -------------------------------------------------------- |

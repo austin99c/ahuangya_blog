@@ -6,7 +6,6 @@ keywords:
   - 前端
   - 后端
   - Vue
-  - React
   - JavaScript
   - HTTP
   - 算法
@@ -14,11 +13,7 @@ keywords:
 
 本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于
 
-- Web
-- 前端
+- 前端Vue、JavaScript
 - 后端
-- Vue
-- React
-- JavaScript
-- HTTP
 - 算法
+- 数据库

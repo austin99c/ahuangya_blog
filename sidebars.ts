@@ -241,7 +241,7 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         {
-          label: 'Mysql',
+          label: 'MySQL',
           type: 'category',
           link: {
             type: 'doc',
